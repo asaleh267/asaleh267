@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Palestine, living in Dubai</h3>
 <p align="center">
 <p align="center">
-    <a href="https://linkedin.com/in/asaleh267" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/aseel-saleh" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="asaleh267" height="30" width="40" /></a>
     <a href="https://fb.com/asaleh267" target="blank"><img align="center"
