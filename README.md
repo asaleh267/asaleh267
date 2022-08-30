@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Folks! 👋</h1>
-<h3 align="center">A passionate frontend developer from Palestine, living in Dubai</h3>
+<h2 align="center">A passionate frontend developer from Palestine, living in Dubai</h2>
 <p align="center">
 <p align="center">
     <a href="https://linkedin.com/in/aseel-saleh" target="blank"><img align="center"
