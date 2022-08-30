@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Folks! 👋</h1>
+<p align="center">Hello, Folks! 👋</p>
 <p align="center">A passionate frontend developer from Palestine, living in Dubai</p>
 <p align="center">
     <a href="https://linkedin.com/in/aseel-saleh" target="blank"><img align="center"
@@ -15,7 +15,7 @@
 
 <br />
 <br />
-<h4 align="left">Languages and Tools:</h4>
+<p align="left">Languages and Tools:</p>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
