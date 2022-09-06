@@ -1,6 +1,6 @@
 <p align="center">Hello, Folks! 👋</p>
 <p align="center">A passionate frontend developer from Palestine, living in Dubai</p>
-<p align="center"><code><a href="https://asaleh267.github.io/">https://asaleh267.github.io</a></code></p>
+<p align="center"><code><a target="_blank" href="https://asaleh267.github.io/">https://asaleh267.github.io</a></code></p>
 <p align="center">
     <a href="https://linkedin.com/in/aseel-saleh" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
